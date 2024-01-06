@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">I'm a enthusiast Web Developer. I've been working with Java for about 10 years and I've been really serious with JavaScript for 2 years now. I love to learn new technologies, research and work through complex problems. I try to pay the highest attention to quality, I love to see my tests run green. I also love sharing my knowledge with others and talk about it.</h3>
+<h3 align="center">I'm a enthusiast Web Developer. I've been working with Java for about 10 years and I've been really serious with JavaScript for 2 years now.</h3>
+<h3 align="center">I love to learn new technologies, research and work through complex problems. I try to pay the highest attention to quality, I love to see my tests run green.</h3>
+<h3 align="center">I also love sharing my knowledge with others and talk about it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4nu56&label=Profile%20views&color=0e75b6&style=flat" alt="m4nu56" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4nu56" alt="m4nu56" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/m4nu56" target="blank"><img src="https://img.shields.io/twitter/follow/m4nu56?logo=twitter&style=for-the-badge" alt="m4nu56" /></a> </p>
 
 - 🔭 I’m currently working as [Principal Software Engineer at SOPHiA GENETICS](https://www.sophiagenetics.com/)
 
@@ -23,7 +22,7 @@
 <a href="https://twitter.com/m4nu56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m4nu56" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuelbalpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuelbalpe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2042761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2042761" height="30" width="40" /></a>
-<a href="https://medium.com/@m4nu56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m4nu56" height="30" width="40" /></a>
+<a href="https://medium.com/@mnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m4nu56" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
